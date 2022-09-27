@@ -3,10 +3,10 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example.maven-samples</groupId>
+  <groupId>org.apache.maven.plugins</groupId>
   <artifactId>single-module-project</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>3.1.0</version>
   <name>A Single Maven Module</name>
   <description>Sample single module Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
